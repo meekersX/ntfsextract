@@ -1,0 +1,9 @@
+Win10x64
+
+Partition:
+	Starting Sector	206848
+	Ending Sector	438630400
+
+Sector offset from beginning	6082194
+Sector offset within partition	5875346
+Cluster offset within partition	734418
